@@ -1,4 +1,4 @@
-const NomeHeroi = "Cibely_Legend";
+const NomeDoHeroi = "Cibely_Legend";
 var PontoXP = 98765;
 var NivelHeroi;
 
@@ -18,4 +18,4 @@ if (PontoXP < 1000) {
     NivelHeroi = "Imortal"
 } else { NivelHeroi = "Radiante" }
 
-console.log(`O Herói de nome ${NomeHeroi} está no nível de ${NivelHeroi}`)
+console.log(`O Herói de nome ${NomeDoHeroi} está no nível de ${NivelHeroi}`)
